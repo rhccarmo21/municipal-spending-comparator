@@ -1,4 +1,4 @@
-# 🏛️ Municipal Spending Comparator — Comparador de Gastos Públicos Municipais  
+# 🏛️ Comparador de Gastos Públicos Municipais  
 Ferramenta para comparar os investimentos públicos entre municípios brasileiros, por área funcional (educação, saúde, segurança etc.), promovendo transparência, accountability e benchmarking entre gestões públicas.
 
 ---
