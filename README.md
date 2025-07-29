@@ -21,7 +21,7 @@ Ferramenta para comparar os investimentos públicos entre municípios brasileiro
 
 ## 📁 Estrutura do Projeto municipal-spending-comparator/
 
-── data/ # Dados brutos e processados
+├── data/ # Dados brutos e processados
 
 ├── notebooks/ # Notebooks de análise e visualização
 
