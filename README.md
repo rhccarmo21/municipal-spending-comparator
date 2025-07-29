@@ -19,24 +19,33 @@ Ferramenta para comparar os investimentos públicos entre municípios brasileiro
 
 ---
 
-## 📁 Estrutura do Projeto  
-municipal-spending-comparator/
-├── data/ # Dados brutos e processados
+## 📁 Estrutura do Projeto municipal-spending-comparator/
+
+── data/ # Dados brutos e processados
+
 ├── notebooks/ # Notebooks de análise e visualização
+
 ├── src/ # Scripts auxiliares e funções
+
 ├── preprocessing/ # Limpeza e preparação dos dados
+
 ├── outputs/ # Gráficos comparativos e tabelas
+
 ├── analise/ # Relatórios e interpretações comparativas
+
 ├── docs/ # Documentação técnica e metodológica
+
 ├── tests/ # Testes dos scripts e funções
+
 ├── README.md # Este arquivo
+
 ├── requirements.txt # Dependências do projeto
+
 ├── .gitignore # Arquivos ignorados pelo Git
+
 └── LICENSE # Licença do projeto
 
-yaml
-Copiar
-Editar
+
 
 ---
 
